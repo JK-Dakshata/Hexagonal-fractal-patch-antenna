@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this antenna design or documentation in your research, please cite it as below."
+authors:
+  - family-names: "S K"
+    given-names: "Arun Pranav"
+  - family-names: "Dakshata"
+    given-names: "J K"
+  - family-names: "N"
+    given-names: "Devanand"
+title: "Compact Hexagonal Fractal Patch Antenna for 2.4 GHz Wireless Communication"
+version: "1.0.0"
+date-released: "2026-04-30"
+url: "https://github.com/JK-Dakshata/Hexagonal-fractal-patch-antenna"

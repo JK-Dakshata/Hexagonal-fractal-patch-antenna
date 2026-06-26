@@ -1,0 +1,12 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# HFSS simulation files
+*.aedtresults/
+*.aedt.lock
