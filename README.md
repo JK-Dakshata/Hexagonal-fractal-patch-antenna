@@ -110,12 +110,26 @@ Detailed walkthroughs are structured in the following directories:
 
 ---
 
-## Project Context & Metadata
-* **Original Project Title:** Compact Hexagonal Fractal Patch Antenna for 2.4 GHz Wireless Communication
-* **Degree:** Bachelor of Engineering in Electronics and Communication Engineering (Anna University, April 2026)
-* **Institution:** Dr. N.G.P. Institute of Technology, Coimbatore – 641 048
-* **Research Supervisor:** Dr. K. Sakthisudhan, M.E., Ph.D. (Professor, Dept. of ECE)
-* **Team Members:** Arun Pranav S K, J K Dakshata, Devanand N
+## R&D Project Team & Contributor Roles
+
+### Principal Research Team
+* 👤 **J K Dakshata**  
+  * **Role:** Lead RF Design & Computational Modeling Engineer
+  * **Domain:** Symmetrical hexagonal modeling, space-filling fractal slots, parametric sweeps, excitation setup, and impedance matching.
+* 👤 **Arun Pranav S K**  
+  * **Role:** Hardware Prototyping & Fabrication Specialist
+  * **Domain:** CNC wet chemical etching, double-sided PCB photolithography, structural chassis design, and SMA port soldering.
+* 👤 **Devanand N**  
+  * **Role:** Measurement Analysis & Documentation Lead
+  * **Domain:** VNA frequency testing, S-parameter logging, VSWR validation, data collation, and repository asset management.
+
+### R&D Advisor & Supervisor
+* 🎓 **Dr. K. Sakthisudhan, M.E., Ph.D.**  
+  * **Role:** Research Director / Principal Investigator (Professor, Department of ECE, Dr. N.G.P. Institute of Technology)
+
+### Institutional Context
+* **Academic Body:** Dr. N.G.P. Institute of Technology, Coimbatore – 641 048 (Autonomous Institution, Affiliated to Anna University, Chennai)
+* **Program:** Bachelor of Engineering (B.E.) in Electronics and Communication Engineering (Session: April 2026)
 
 ---
 
